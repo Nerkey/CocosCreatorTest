@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9778076f-2940-4ef6-8d9b-48d57b4de735",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cocos_creator_white": {
+      "ver": "1.0.3",
+      "uuid": "6ca23b1c-4dfe-41dd-b335-ad883a5bab36",
+      "rawTextureUuid": "9778076f-2940-4ef6-8d9b-48d57b4de735",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 480,
+      "rawWidth": 800,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
